@@ -1,2 +1,5 @@
 # schemaValidation
-This repo is about of validation of JSON schema 
+This repo is about to Validate JSON against Schema in Java
+
+- Tools:  Jackson , maven, IntelliJ
+- Use cucumber
